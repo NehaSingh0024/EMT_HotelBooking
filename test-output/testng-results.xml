@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="0" total="13" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="530683" started-at="2021-10-21T18:25:04Z" finished-at="2021-10-21T18:33:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="530683" started-at="2021-10-21T18:25:04Z" finished-at="2021-10-21T18:33:54Z">
+      <class name="runner.HotelPageRunner">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="beforeMethod" is-config="true" duration-ms="6515" started-at="2021-10-21T18:25:04Z" finished-at="2021-10-21T18:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="goToLinkTest()[pri:1, instance:runner.HotelPageRunner@1e16c0aa]" name="goToLinkTest" duration-ms="3228" started-at="2021-10-21T18:25:10Z" finished-at="2021-10-21T18:25:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToLinkTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="afterMethod" is-config="true" duration-ms="4850" started-at="2021-10-21T18:25:13Z" finished-at="2021-10-21T18:25:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="beforeMethod" is-config="true" duration-ms="5600" started-at="2021-10-21T18:25:18Z" finished-at="2021-10-21T18:25:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="searchByEmptyCity()[pri:2, instance:runner.HotelPageRunner@1e16c0aa]" name="searchByEmptyCity" duration-ms="6866" started-at="2021-10-21T18:25:24Z" finished-at="2021-10-21T18:25:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByEmptyCity -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="afterMethod" is-config="true" duration-ms="4841" started-at="2021-10-21T18:25:31Z" finished-at="2021-10-21T18:25:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="beforeMethod" is-config="true" duration-ms="6109" started-at="2021-10-21T18:25:36Z" finished-at="2021-10-21T18:25:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="searchWithAllData()[pri:3, instance:runner.HotelPageRunner@1e16c0aa]" name="searchWithAllData" duration-ms="15234" started-at="2021-10-21T18:25:42Z" finished-at="2021-10-21T18:25:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithAllData -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="afterMethod" is-config="true" duration-ms="4871" started-at="2021-10-21T18:25:57Z" finished-at="2021-10-21T18:26:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="beforeMethod" is-config="true" duration-ms="5593" started-at="2021-10-21T18:26:02Z" finished-at="2021-10-21T18:26:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="searchWithAllnchild()[pri:4, instance:runner.HotelPageRunner@1e16c0aa]" name="searchWithAllnchild" duration-ms="16746" started-at="2021-10-21T18:26:07Z" finished-at="2021-10-21T18:26:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithAllnchild -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="afterMethod" is-config="true" duration-ms="4858" started-at="2021-10-21T18:26:24Z" finished-at="2021-10-21T18:26:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="beforeMethod" is-config="true" duration-ms="5813" started-at="2021-10-21T18:26:29Z" finished-at="2021-10-21T18:26:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="searchWithTwoRoom()[pri:5, instance:runner.HotelPageRunner@1e16c0aa]" name="searchWithTwoRoom" duration-ms="13982" started-at="2021-10-21T18:26:35Z" finished-at="2021-10-21T18:26:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithTwoRoom -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="afterMethod" is-config="true" duration-ms="4903" started-at="2021-10-21T18:26:49Z" finished-at="2021-10-21T18:26:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="beforeMethod" is-config="true" duration-ms="5830" started-at="2021-10-21T18:26:54Z" finished-at="2021-10-21T18:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="sortByPriceLH()[pri:6, instance:runner.HotelPageRunner@1e16c0aa]" name="sortByPriceLH" duration-ms="14830" started-at="2021-10-21T18:27:00Z" finished-at="2021-10-21T18:27:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortByPriceLH -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="afterMethod" is-config="true" duration-ms="4885" started-at="2021-10-21T18:27:14Z" finished-at="2021-10-21T18:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="beforeMethod" is-config="true" duration-ms="5772" started-at="2021-10-21T18:27:19Z" finished-at="2021-10-21T18:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="bookRoom()[pri:7, instance:runner.HotelPageRunner@1e16c0aa]" name="bookRoom" duration-ms="151771" started-at="2021-10-21T18:27:25Z" finished-at="2021-10-21T18:29:57Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Hotel] but found [Traveller Detail]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Hotel] but found [Traveller Detail]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at runner.HotelPageRunner.bookRoom(HotelPageRunner.java:107)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookRoom -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="afterMethod" is-config="true" duration-ms="4880" started-at="2021-10-21T18:29:57Z" finished-at="2021-10-21T18:30:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="beforeMethod" is-config="true" duration-ms="6178" started-at="2021-10-21T18:30:02Z" finished-at="2021-10-21T18:30:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="FourStar()[pri:8, instance:runner.HotelPageRunner@1e16c0aa]" name="FourStar" duration-ms="20581" started-at="2021-10-21T18:30:08Z" finished-at="2021-10-21T18:30:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FourStar -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="afterMethod" is-config="true" duration-ms="4767" started-at="2021-10-21T18:30:28Z" finished-at="2021-10-21T18:30:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="beforeMethod" is-config="true" duration-ms="6030" started-at="2021-10-21T18:30:33Z" finished-at="2021-10-21T18:30:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="EnterValidGuestDetailTest()[pri:9, instance:runner.HotelPageRunner@1e16c0aa]" name="EnterValidGuestDetailTest" duration-ms="30246" started-at="2021-10-21T18:30:39Z" finished-at="2021-10-21T18:31:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterValidGuestDetailTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="afterMethod" is-config="true" duration-ms="4832" started-at="2021-10-21T18:31:10Z" finished-at="2021-10-21T18:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="beforeMethod" is-config="true" duration-ms="6020" started-at="2021-10-21T18:31:14Z" finished-at="2021-10-21T18:31:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="EnterInvalidEmailTest()[pri:10, instance:runner.HotelPageRunner@1e16c0aa]" name="EnterInvalidEmailTest" duration-ms="32324" started-at="2021-10-21T18:31:20Z" finished-at="2021-10-21T18:31:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterInvalidEmailTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="afterMethod" is-config="true" duration-ms="4887" started-at="2021-10-21T18:31:53Z" finished-at="2021-10-21T18:31:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="beforeMethod" is-config="true" duration-ms="5625" started-at="2021-10-21T18:31:58Z" finished-at="2021-10-21T18:32:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="EnterInvalidMobNoTest()[pri:11, instance:runner.HotelPageRunner@1e16c0aa]" name="EnterInvalidMobNoTest" duration-ms="26328" started-at="2021-10-21T18:32:03Z" finished-at="2021-10-21T18:32:30Z">
+          <exception class="org.openqa.selenium.UnhandledAlertException">
+            <message>
+              <![CDATA[unexpected alert open: {Alert text : Rooms is sold out. please select another room.}
+  (Session info: chrome=94.0.4606.81): Rooms is sold out. please select another room.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-VM4G1KR', ip: '192.168.0.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\SINGH~1.DES\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:49596}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 677a8f1281c5c929bcca23625c188be0]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Rooms is sold out. please select another room.}
+  (Session info: chrome=94.0.4606.81): Rooms is sold out. please select another room.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'DESKTOP-VM4G1KR', ip: '192.168.0.109', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\Users\SINGH~1.DES\AppDat...}, goog:chromeOptions: {debuggerAddress: localhost:49596}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 677a8f1281c5c929bcca23625c188be0
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:120)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:609)
+at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:281)
+at runner.HotelPageRunner.bookRoom(HotelPageRunner.java:107)
+at runner.HotelPageRunner.EnterInvalidMobNoTest(HotelPageRunner.java:172)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.UnhandledAlertException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterInvalidMobNoTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="afterMethod" is-config="true" duration-ms="4898" started-at="2021-10-21T18:32:30Z" finished-at="2021-10-21T18:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="beforeMethod" is-config="true" duration-ms="6371" started-at="2021-10-21T18:32:34Z" finished-at="2021-10-21T18:32:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="NoGuestDetailsTest()[pri:12, instance:runner.HotelPageRunner@1e16c0aa]" name="NoGuestDetailsTest" duration-ms="27091" started-at="2021-10-21T18:32:41Z" finished-at="2021-10-21T18:33:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NoGuestDetailsTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="afterMethod" is-config="true" duration-ms="4849" started-at="2021-10-21T18:33:08Z" finished-at="2021-10-21T18:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="beforeMethod" is-config="true" duration-ms="5883" started-at="2021-10-21T18:33:13Z" finished-at="2021-10-21T18:33:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="uncheckTnCTest()[pri:13, instance:runner.HotelPageRunner@1e16c0aa]" name="uncheckTnCTest" duration-ms="30867" started-at="2021-10-21T18:33:19Z" finished-at="2021-10-21T18:33:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uncheckTnCTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:runner.HotelPageRunner@1e16c0aa]" name="afterMethod" is-config="true" duration-ms="4856" started-at="2021-10-21T18:33:50Z" finished-at="2021-10-21T18:33:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- runner.HotelPageRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
