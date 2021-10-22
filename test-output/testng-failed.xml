@@ -7,7 +7,6 @@
         <methods>
           <include name="EnterInvalidMobNoTest"/>
           <include name="afterMethod"/>
-          <include name="bookRoom"/>
           <include name="beforeMethod"/>
         </methods>
       </class> <!-- runner.HotelPageRunner -->
